@@ -1,4 +1,3 @@
-# NAGT-Score: Security-Scoring Concept and Simulated V2X Spoofing-Detection Pilot
 
 Reference code and corrected experimental results accompanying the October 2026 manuscript:
 
